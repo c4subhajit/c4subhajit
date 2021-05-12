@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Subhajit Debnath @c4subhajit
-- 👀 I’m interested in standalone app development using .net
-- 🌱 I’m currently learning rest api implementation
-- 💞️ I’m looking to collaborate on data science problems
+- 👀 Interested in standalone app development using .net
+- 🌱 Willing to collaborate on data science problems
 - 📫 c4subhajit@gmail.com
 - https://www.linkedin.com/in/c4subhajit/
 - https://warlocksolutions.blogspot.com/
